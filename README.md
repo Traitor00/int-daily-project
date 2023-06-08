@@ -1,7 +1,7 @@
 # Day 1
 
 I was given following UI to implement.
-![Alt text](https://raw.githubusercontent.com/Traitor00/InternProject/day1/assets/ui/image_2023_06_07T04_02_51_351Z.png)
+![Alt text](https://raw.githubusercontent.com/Traitor00/int-daily-project/day1/assets/ui/image_2023_06_07T04_02_51_351Z.png)
 
 I was able to achieve:
 
